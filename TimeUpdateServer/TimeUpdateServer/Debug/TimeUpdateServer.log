@@ -1,0 +1,8 @@
+﻿生成启动时间为 2013/9/10 15:18:12。
+     1>项目“D:\开发\C++\TimeUpdateServer\TimeUpdateServer\TimeUpdateServer.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Platforms\Win32\PlatformToolsets\v110_xp\Microsoft.Cpp.Win32.v110_xp.targets(28,5): error MSB8026: Static analysis is not supported with the current platform toolset.
+     1>已完成生成项目“D:\开发\C++\TimeUpdateServer\TimeUpdateServer\TimeUpdateServer.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.06
